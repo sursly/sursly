@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [new typefaces](https://www.tyfromtheinternet.com)
-- 🌱 I’m currently learning Blender
+- 🌱 I’m trying to learn Blender in my spare time
 - 👯 I’m looking to collaborate on [music](https://www.adventureson.band)
 - 🤔 I’m looking for help with writing a novel
 - 💬 Ask me about running, parenting, movies, music
